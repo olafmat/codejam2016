@@ -1,0 +1,29 @@
+/**
+ * !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ * In the code I use free library JGraphT (jgrapht-core-0.9.2.jar), 
+ * available at http://jgrapht.org/ and dual-licensed under LGPL and EPL
+ * !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ */
+
+/**
+ * !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+ * In the code I use free library JGraphT, available for download from http://jgrapht.org/
+ * version 0.9.2 dual-licensed under LGPL and EPL
+ * !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+ */
+
+/**
+ * !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+ * In the code I use free library JOptimizer (joptimizer-3.5.0.jar) available at: 
+ * https://sourceforge.net/projects/cvxopt/
+ * licensed under Apache License 2.0: http://www.apache.org/licenses/
+ *
+ * which in turn uses Apache Commons jars:
+ * commons-lang3-3.4.jar, commons-logging-1.2.jar, commons-math3-3.6.1.jar
+ * available at: http://commons.apache.org/downloads/
+ * licensed under Apache License: http://www.apache.org/licenses/
+ *
+ * and colt.jar available at: http://dst.lbl.gov/ACSSoftware/colt/
+ * license: http://dst.lbl.gov/ACSSoftware/colt/license.html
+ * !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+ */
